@@ -1,0 +1,180 @@
+Uri: https://hyperflick.net/
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\index.htm
+Content Type: text/html
+
+Uri: https://hyperflick.net/images/home_bg.png
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\home_bg.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/features_bg.png
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\features_bg.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/shop_bg.png
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\shop_bg.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/feedback_bg.png
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\feedback_bg.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/gallery_bg.png
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\gallery_bg.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/styles.css
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\styles.css
+Content Type: text/css
+
+Uri: https://hyperflick.net/videos/hyperflick.mp4
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\videos\hyperflick.mp4
+Content Type: video/mp4
+
+Uri: https://hyperflick.net/assets/guide.rar
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\assets\guide.rar
+Content Type: application/x-rar-compressed
+
+Uri: https://hyperflick.net/images/logo.png?1b563b2de0785b7d185dbc2020f57486
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\logo.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/box_no_icon.png?ea5407cb0989cdb53bb7760cb0237327
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\box_no_icon.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/logo_box.png?494ca7df46e15fd153f4c6e93c32f43d
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\logo_box.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/box_shadow.png?24ea5f6785c98418636382f258bdf8f9
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\box_shadow.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/hypervisor.png?95e4c4efac73a4a163ca478ed0f5841f
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\hypervisor.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/aim.png?6424c232f97ac18ab64c665608197cae
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\aim.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/ghost_aim.png?d6ce497acca2db676baeda3f9f2a0dd4
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\ghost_aim.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/humanizer.png?f752638cd285eb40943afc88df81661f
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\humanizer.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/flick.png?7860e227fd0f53e3699657b0af301399
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\flick.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/predictions.png?776d7923bd78a54b575df50f0c75e1af
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\predictions.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/tracking.png?b874fc39435202ea4e9003363c670833
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\tracking.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/assist.png?71c8e851b744cc2ff5b14a0536637c66
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\assist.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/skill.png?3d929a52e82b90f20e142d286ab266a2
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\skill.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/esp.png?2223b348ccecd509f14ad6deac33e747
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\esp.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/object_esp.png?66b74fdfaffde618f85494a2af7abec5
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\object_esp.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/spoofer.png?309ce7fb8dea19846c682ff5d1ba9ea8
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\spoofer.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/auto_melee.png?fc40bc92b9f7b487bca6737d9f4e1130
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\auto_melee.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/protection.png?7d2e334e40efcd533fbcd93510695f69
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\protection.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/hand.png?fd69c1249fcaf09bd1c304c962d730d6
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\hand.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/index.js
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\index.js
+Content Type: application/javascript
+
+Uri: https://hyperflick.net/images/noise.png?4fbf79f488815f37481dfbe2d32418a4
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\noise.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/e2ebffa44fbb63381589b4c62164a7a7.ttf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\e2ebffa44fbb63381589b4c62164a7a7.ttf
+Content Type: font/ttf
+
+Uri: https://hyperflick.net/55fc24317b9c2b507dd85d871c2cf348.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\55fc24317b9c2b507dd85d871c2cf348.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/3d615d9795b5607c2478bc02965842c1.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\3d615d9795b5607c2478bc02965842c1.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/febd30d6f2b77941893c3ec2690ffbaa.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\febd30d6f2b77941893c3ec2690ffbaa.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/a6d3bdd1396039d3bfc389ccd3e0a927.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\a6d3bdd1396039d3bfc389ccd3e0a927.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/32c9f258950ee3bc38518917bf60db42.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\32c9f258950ee3bc38518917bf60db42.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/0d681ed699b8c075718f3920c13d589f.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\0d681ed699b8c075718f3920c13d589f.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/57e3ab5e79d5496b7dcc42cc7cf210a7.otf
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\57e3ab5e79d5496b7dcc42cc7cf210a7.otf
+Content Type: font/otf
+
+Uri: https://hyperflick.net/images/user.png?fc6318235e7e63d5827495141dc60041
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\user.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/star.png?c4854825f8b6dd913359b7fb5a92c2cb
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\star.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/gradient_user.png?7d1d88922e932adcff9241888bd4528a
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\gradient_user.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/gradient_star.png?2c54df1ac2ae14ac2c07dfcab386f15e
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\gradient_star.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/arrow.png?e67453bd9ea56415b8887f69c9c9a57a
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\arrow.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/gradient_arrow.png?cac8239479cf2a7ff443030fa7b390c8
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\gradient_arrow.png
+Content Type: image/png
+
+Uri: https://hyperflick.net/images/loading_bg.png?45ce8552fd11f42a75f47838debff377
+File Name: C:\Users\CANNADEY\Desktop\핵 작업파일\하플사이트\새 폴더\hyperflick.net\images\loading_bg.png
+Content Type: image/png
+
